@@ -3,10 +3,12 @@
 I'm a Computer Engineering junior at the University of Waterloo graduating in 2022. I am passionate about building end to end products and infrastructure that is scalable and efficient to create impact. 
 
 ## Previously ...
+- A Software Engineering Intern on the Infrastructure team at Wish
+- A Cloud Infrastructure Engineer Intern at CENGN
 
+## Reach out to me via
+hate coffee but love meeting people, always up for a virtual coffee chat ☕️
 
-
-## 📫 Reach out to me via
 [LinkedIn](https://www.linkedin.com/in/priyanka-h/) | [Email](priyankahariharan421@gmail.com)
 
 <!--
