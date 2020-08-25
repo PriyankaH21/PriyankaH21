@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Priyanka 
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Priyanka 
 
 I'm a Computer Engineering junior at the University of Waterloo graduating in 2022. I am passionate about building end to end products and infrastructure that is scalable and efficient to create impact. 
 
