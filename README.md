@@ -7,8 +7,6 @@ I'm a Computer Engineering junior at the University of Waterloo graduating in 20
 - A Cloud Infrastructure Engineer Intern at CENGN
 
 ## Reach out to me via
-always up for a virtual coffee chat ☕️ - love meeting people, hate cofee 
-
 [LinkedIn](https://www.linkedin.com/in/priyanka-h/) | [Email](priyankahariharan421@gmail.com)
 
 <!--
